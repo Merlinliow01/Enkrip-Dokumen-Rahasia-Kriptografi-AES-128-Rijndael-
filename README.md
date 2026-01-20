@@ -1,5 +1,5 @@
 
-# Implementasi AES pada FILE
+# Implementasi AES pada FILE DOKUMEN RAHASIA
 
 Enkripsi-Dekripsi File Menggunakan Algoritma Advanced enkripsiion Standard (AES-128)
 
