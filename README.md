@@ -1,3 +1,4 @@
+
 # Implementasi AES pada FILE
 
 Aplikasi PHP Enkripsi-Dekripsi File Menggunakan Algoritma Advanced enkripsiion Standard (AES-128)
@@ -9,4 +10,6 @@ Untuk menggunakan Aplikasi ini buatlah 2 folder di dalam folder dashboard yakni
 1. folder dengan nama "file_enkripsi"
 2. folder dengan nama "file_dekripsi"
 
-Note: program ini merupakan program kuliah kerja praktek (kkp/magang). Program ini direpository-kan untuk pembelajaran implementasi algoritma AES 128bit
+
+# Enkrip-Dokumen-Rahasia-Kriptografi-AES-128-Rijndael-
+87acd3f116186d3dff5ae9a2143470f7de0e0f9b
