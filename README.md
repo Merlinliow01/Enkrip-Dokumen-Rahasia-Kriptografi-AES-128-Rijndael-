@@ -1,7 +1,7 @@
 
 # Implementasi AES pada FILE
 
-Aplikasi PHP Enkripsi-Dekripsi File Menggunakan Algoritma Advanced enkripsiion Standard (AES-128)
+Enkripsi-Dekripsi File Menggunakan Algoritma Advanced enkripsiion Standard (AES-128)
 
 # Cara Penggunaan
 
